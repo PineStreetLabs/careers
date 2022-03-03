@@ -1,0 +1,6 @@
+[book]
+authors = ["Philip Glazman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Pine Street Labs - Careers"
