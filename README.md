@@ -7,3 +7,4 @@ We are a small team developing solutions that have an outsized impact on the cus
 We want our team members to grow with the industry and we do so by cultivating a culture of learning, hiring domain experts, and building practical, yet ambitious software.
 
 ## [Software Engineer](./src/software_engineer.md)
+## [Security Engineer](./src/security_engineer.md)
