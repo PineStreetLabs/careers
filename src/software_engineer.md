@@ -20,6 +20,8 @@ We write our software in Rust and deal with low-level system-based problems that
 
  - Experience with applied cryptography in the custody or cryptocurrency space.
 
+ - Experience working with distributed systems.
+
  - Passion for security and a domain expertise in a segment of the software stack (e.g. deep knowledge of Linux, networking, elliptic curves, or something else).
 
  - A drive to work with cutting-edge cryptocurrency projects.
